@@ -1,0 +1,64 @@
+.press-start-2p-regular {
+    .press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    background-color: rgb(228, 215, 321);
+    font-family: "Press Start 2P", system-ui;
+}
+#Image{
+float: left;
+}
+#Image img{
+    max-width: 420px;
+    max-height: 100px;
+}
+input{
+    width: 109px;
+    height: 43px;
+}
+#search{
+    float: right;
+}
+label{
+    
+    font-size: 20px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    float: right;
+    width: 80px;
+    margin-left: 60px;
+}
+a{
+    color: black;
+    text-decoration: none;
+
+}
+#itembar{
+   padding-top: 100px;
+}
+#okas{
+    max-width: 1000px;
+    margin: auto;
+}
+hr{
+    background-color: rgb(100, 39, 134);
+    height: 10px;
+}
+y{
+    color: yellow;
+}
+h3{
+    color: rgba(255, 255, 255, 0.883);
+}   

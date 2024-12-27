@@ -1,0 +1,33 @@
+#box3{
+margin-top:10px;
+border:5px solid white;
+background-color:  rgb(78, 168, 108);
+width: 999px;
+margin-bottom: 10px;
+height: 360px;
+}
+#leal{
+	border:10px solid #038443;
+	width:100px;
+	height:100px;
+	float:left;
+	margin:10px;
+	background-color:white;
+	color: #038443;
+	text-align: center;
+	margin-top: 50px;
+}
+#textin{
+	margin-top: 50px;
+	color: white;
+	font: 50;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#menu3{
+	margin: auto;
+	text-align: center;
+	border: 10px solid rgb(67, 143, 90);
+	padding-bottom: 20px;
+	width: 500px;
+	background-color:  rgb(67, 143, 90);
+}

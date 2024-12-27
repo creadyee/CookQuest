@@ -1,0 +1,41 @@
+#Featured_Recipes{
+    border: 5px solid white;
+    
+    background-color: rgb(149, 94, 159) ;
+}
+#menu1{
+    background-color: rgb(124, 55, 136);
+    border: 2px solid rgb(124, 55, 136);
+    margin: auto;
+    text-align: center;
+    width: 600px;
+    height: 100px;
+   
+}
+#images img{
+    height: 200px;
+    display: flex;
+    margin-right: 10px;
+    margin-left: 40px
+    
+}
+#images{
+    text-align: center;
+    display: flex; 
+    padding-right:100px;
+}
+#Featured_Recipes {
+    border: 5px solid white;
+    height: 400px;
+    background-color: rgb(149, 94, 159);
+    overflow: hidden;
+}
+
+#menu1 {
+    background-color: rgb(124, 55, 136);
+    border: 2px solid rgb(124, 55, 136);
+    margin: auto;
+    text-align: center;
+
+}
+
